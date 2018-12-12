@@ -16,7 +16,4 @@ class Student():
 def sayHello():
     print("Hi, everybody, 欢迎学习python！")
 
-# 此判断语句建议一直作为程序的入口
-if __name__ == '__main__':
-
-    print("我是模块p01呀，你喊我吗？")
+print("我是模块p01呀，你喊我吗？")
